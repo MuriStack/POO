@@ -52,8 +52,5 @@ public class Switch {
 		
 		case 4 -> System.out.println("Esse dia não existe");
 		}
-		
-
 	}
-
 }
